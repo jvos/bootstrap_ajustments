@@ -1,0 +1,6 @@
+name = Bootstrap Ajustments (Sub Theme Bootstrap)
+description = This is a sub-theme of bootstrap, with a few ajustments.
+core = 7.x
+base theme = bootstrap
+
+stylesheets[all][] = css/style_bootstrap_ajustments.css
